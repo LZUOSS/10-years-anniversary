@@ -1,0 +1,74 @@
+#banner
+{
+	margin: 0 auto ;
+	max-width: 70%;
+	padding: 0px;
+	height: 55%;
+}
+
+#subbanner
+{
+	margin-bottom: 0;
+}
+.card
+{
+	max-width: 400px;
+	margin:10px;
+	height: 100%;
+}
+
+.card .card-image .card-title
+{
+	padding-bottom: 5px;
+}
+
+.card-content p
+{
+	height: 50px;
+}
+
+.card .card-action 
+{
+	padding: 9px;
+	padding-left: 20px;
+}
+
+.card .card-action a
+{
+	padding: 0px;
+}
+
+#anni
+{
+	text-align: center;
+	margin: auto auto;
+	max-height: 100%;
+	max-width: 100%;
+	padding-top: 5%;
+}
+
+.main-logo
+{
+	text-align: center;
+	margin: auto auto;
+	height: 35%;
+	max-width: 90%;
+}
+
+.slick-slider .slick-list
+{
+	padding-top: 3%;
+}
+
+.slick-dots
+{
+	margin-bottom:0;
+	margin-top: 0; 
+	position: relative;
+	bottom: -15px;
+}
+
+.slick-prev:before, .slick-next:before
+{
+	color: #b19138;
+}
